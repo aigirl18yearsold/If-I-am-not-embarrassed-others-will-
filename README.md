@@ -1,14 +1,10 @@
-If I Am Not Embarrassed, Others Will
+# If I Am Not Embarrassed, Others Will
 
 GitHub Game Off 2026 · Theme: SHIFT
 
-Two Worlds. One Kingdom. Five Heroes. One Battle for Power.
+## Two Worlds. One Kingdom. Five Heroes. One Battle for Power.
 
-A 3D isometric fantasy strategy adventure combining kingdom conquest, tactical 5v5 battles, spirit-beast bonding, royal bloodlines, and dimensional shifting.
-
-
-
-🌌 About the Game
+### About the Game
 
 Two dimensions exist side by side: the Living Kingdom and the Shadow Kingdom.
 
@@ -18,154 +14,99 @@ But the world is not what it seems. Shifting dimensions can reveal hidden paths,
 
 Your choices shape your legacy.
 
-🎮 Core Gameplay
+### Core Gameplay
 
-1. Five-versus-Five Battles
+**Five-versus-Five Battles**
+- 5 player-controlled allied heroes
+- 5 computer-controlled enemy heroes
+- Tactical movement and positioning
+- Attack, defense, and special abilities
+- AI-controlled enemy strategies
 
-Every battle features:
+**Five Hero Roles**
+| Hero | Role |
+|------|------|
+| Commander | Leads the team |
+| Guardian | Protects allies |
+| Scout | Explores and discovers |
+| Beastmaster | Bonds with spirit beasts |
+| Royal Warrior | Uses royal powers |
 
-- 5 player-controlled allied heroes.
-- 5 computer-controlled enemy heroes.
-- Tactical movement and positioning.
-- Attack, defense, and special abilities.
-- AI-controlled enemy strategies.
+**Four Spirit Beasts**
+| Spirit Beast | Specialization |
+|-------------|----------------|
+| Spirit Wolf | Speed, stealth, loyalty |
+| Spirit Tiger | Strength, courage, power |
+| Spirit Snake | Wisdom, control, mystery |
+| Spirit Dragon | Majesty, power, Dragon Aura |
 
-2. Five Hero Roles
+**The Two Dimensions**
+- **Living Kingdom**: Build and expand territories, develop settlements, form alliances, discover resources
+- **Shadow Kingdom**: Explore hidden lands, discover mysterious creatures, find alternate routes, unlock hidden opportunities
 
-Hero| Role
-Commander| Leads the team
-Guardian| Protects allies
-Scout| Explores and discovers
-Beastmaster| Bonds with spirit beasts
-Royal Warrior| Uses royal powers
-
-3. The Four Spirit Beasts
-
-Each beast has a unique identity and gameplay specialization.
-
-Spirit Beast| Specialization
-🐺 Spirit Wolf| Speed, stealth, loyalty
-🐅 Spirit Tiger| Strength, courage, power
-🐍 Spirit Snake| Wisdom, control, mystery
-🐉 Spirit Dragon| Majesty, power, Dragon Aura
-
-Players must earn the trust of spirit beasts and develop their abilities.
-
-4. The Two Dimensions
-
-The Living Kingdom
-
-- Build and expand territories.
-- Develop settlements.
-- Form alliances.
-- Discover resources.
-
-The Shadow Kingdom
-
-- Explore hidden lands.
-- Discover mysterious creatures.
-- Find alternate routes.
-- Unlock hidden opportunities.
-
-5. The SHIFT Mechanic
-
+**The SHIFT Mechanic**
 Switch between dimensions to discover new possibilities and change the strategic situation.
 
-6. Kingdom Management
+**Kingdom Management**
+- Territory expansion
+- Resource management
+- Recruitment and training
+- Diplomacy and alliances
+- Royal bloodline progression
 
-- Territory expansion.
-- Resource management.
-- Recruitment and training.
-- Diplomacy and alliances.
-- Royal bloodline progression.
-
-7. Permanent Character Elimination
-
+**Permanent Character Elimination**
 Character defeat has lasting consequences. Players must consider the risks of every battle.
 
+### Planned Game Screens
+- Main Menu
+- Five-Hero Team Selection
+- Spirit Beast Selection
+- 5v5 Battle Arena
+- Dimension SHIFT Screen
+- Kingdom Management
+- Battle Results and Rewards
 
-🖥️ Planned Game Screens
+### Technology
+- Python — game logic and systems
+- 3D game engine — rendering and gameplay
+- GitHub — version control and collaboration
+- itch.io — game distribution
 
-1. Main Menu
-2. Five-Hero Team Selection
-3. Spirit Beast Selection
-4. 5v5 Battle Arena
-5. Dimension SHIFT Screen
-6. Kingdom Management
-7. Battle Results and Rewards
+### Development Roadmap
+1. Establish the GitHub repository and team workflow
+2. Create the first playable battlefield
+3. Implement five allied characters
+4. Implement five computer-controlled enemies
+5. Add movement and combat mechanics
+6. Introduce the first spirit beast
+7. Implement the SHIFT mechanic
+8. Develop the remaining spirit beasts
+9. Add kingdom management
+10. Build the complete game experience
 
+### Team
+- Game Director: Vision, design and coordination
+- Technical Developer: Architecture and implementation
+- World Designer: Kingdoms and environments
+- Character Designer: Heroes and spirit beasts
+- Gameplay Contributor: Mechanics and testing
 
+### Contributing
+- Discuss proposed changes with the team
+- Work on an assigned feature
+- Submit changes through GitHub
+- Document important decisions
+- Respect contributor credits and original work
 
-🛠️ Technology
-
-Planned development tools:
-
-- Python — game logic and systems.
-- 3D game engine — rendering and gameplay.
-- GitHub — version control and collaboration.
-- itch.io — game distribution.
-
-The final engine and architecture will be confirmed after technical feasibility testing.
-
-
-
-🚀 Development Roadmap
-
-- [ ] Establish the GitHub repository and team workflow.
-- [ ] Create the first playable battlefield.
-- [ ] Implement five allied characters.
-- [ ] Implement five computer-controlled enemies.
-- [ ] Add movement and combat mechanics.
-- [ ] Introduce the first spirit beast.
-- [ ] Implement the SHIFT mechanic.
-- [ ] Develop the remaining spirit beasts.
-- [ ] Add kingdom management.
-- [ ] Build the complete game experience.
-
-Development status: Concept and pre-production.
-
-Not all listed features are implemented yet.
-
-
-
-👥 Team
-
-A collaborative project developed by a team of five contributors.
-
-Position| Responsibility
-Game Director| Vision, design and coordination
-Technical Developer| Architecture and implementation
-World Designer| Kingdoms and environments
-Character Designer| Heroes and spirit beasts
-Gameplay Contributor| Mechanics and testing
-
-Contributor names and responsibilities can be updated as the project develops.
-
-
-
-🤝 Contributing
-
-We welcome ideas, feedback, testing, and development contributions.
-
-1. Discuss proposed changes with the team.
-2. Work on an assigned feature.
-3. Submit changes through GitHub.
-4. Document important decisions.
-5. Respect contributor credits and original work.
-
-
-
-🎯 Project Vision
-
+### Project Vision
 We want to create a fantasy world where strategy, loyalty, courage, and choices determine the future of kingdoms.
 
 Build. Conquer. Transform.
 
 Will you embrace the SHIFT?
 
+---
 
-
-Project: If I Am Not Embarrassed, Others Will
-Event: GitHub Game Off 2026
-Theme: SHIFT
-Distribution target: itch.io
+**Event**: GitHub Game Off 2026  
+**Theme**: SHIFT  
+**Distribution target**: itch.io

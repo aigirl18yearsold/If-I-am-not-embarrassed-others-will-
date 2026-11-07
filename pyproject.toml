@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "if-i-am-not-embarrassed-others-will"
+version = "0.1.0"
+description = "GitHub Game Off 2026 - Theme: SHIFT - Two Worlds. One Kingdom. Five Heroes. One Battle for Power."
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+if-i-am-not-embarrassed-others-will = "src.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
